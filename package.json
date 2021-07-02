@@ -1,0 +1,18 @@
+{
+  "name": "cypressautomation",
+  "version": "1.0.0",
+  "description": "cypress auto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "quyet",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^7.6.0",
+    "cypress-xpath": "^1.6.2"
+  }
+}
